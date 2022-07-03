@@ -1,5 +1,5 @@
 # Machine-translation-seq2seq-transformers
-This rebo is a pytorch implementation of [Attention Is All You Need](https://arxiv.org/abs/1706.03762) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
+This repo is a pytorch implementation of [Attention Is All You Need](https://arxiv.org/abs/1706.03762) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
 the algorithm achieved 34.0 Belu-score.
 
 # Setup And Inference
